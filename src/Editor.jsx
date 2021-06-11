@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import JSONEditor from 'jsoneditor/dist/jsoneditor-minimalist';
-import 'jsoneditor/dist/jsoneditor.css';
-import './fixAce.css';
 
 /**
  * @typedef {{
